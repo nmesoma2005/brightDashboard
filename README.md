@@ -1,0 +1,2 @@
+# brightDashboard
+Setting Up Git
